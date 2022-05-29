@@ -1,0 +1,10 @@
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\bin\Debug\WindowCalculator.exe.config
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\bin\Debug\WindowCalculator.exe
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\bin\Debug\WindowCalculator.pdb
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.Properties.Resources.resources
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csproj.GenerateResource.cache
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.exe
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.pdb
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.SmartCalculator.resources
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csproj.AssemblyReference.cache
+C:\Users\Nahom\Desktop\PROG1815\assignments\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csproj.CoreCompileInputs.cache
